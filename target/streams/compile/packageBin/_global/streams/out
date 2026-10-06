@@ -1,7 +1,0 @@
-[debug] Packaging /home/mouaz/scala-spark-30days/day11-broadcast-accumulators/target/scala-2.12/day11-broadcast-accumulators_2.12-0.1.jar ...
-[debug] Input file mappings:
-[debug] 	Day11App$.class
-[debug] 	  /home/mouaz/scala-spark-30days/day11-broadcast-accumulators/target/scala-2.12/classes/Day11App$.class
-[debug] 	Day11App.class
-[debug] 	  /home/mouaz/scala-spark-30days/day11-broadcast-accumulators/target/scala-2.12/classes/Day11App.class
-[debug] Done packaging.
