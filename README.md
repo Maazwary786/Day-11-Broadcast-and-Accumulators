@@ -46,7 +46,12 @@ object Day11App {
 ```
 
 ## Output
+=== Valid transactions with calculated amounts ===
+(T1,50.0)
+(T2,60.0)
+(T4,60.0)
 
+Bad records count: 2
 ## Explanation — what's happening
 
 **1. Broadcast variable**
